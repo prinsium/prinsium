@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3vdi&label=Profile%20views&color=0e75b6&style=flat" alt="3vdi" /> </p>
 
-- 👨‍💻 All of my projects are available at [3vdi.netlify.app](3vdi.netlify.app)
+- 👨‍💻 All of my projects are available at [3vdi.netlify.app](https://3vdi.netlify.app)
 
 - 📫 How to reach me **princetrivedi2000@gmail.com**
 
