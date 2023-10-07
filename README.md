@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prince</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=3vdi&label=Profile%20views&color=0e75b6&style=flat" alt="3vdi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prinsium&label=Profile%20views&color=0e75b6&style=flat" alt="prinsium" /> </p>
 
 - 👨‍💻 All of my projects are available at [3vdi.netlify.app](https://3vdi.netlify.app)
 
