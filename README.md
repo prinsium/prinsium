@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prince</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [3vdi.netlify.app](https://prinsium.vercel.app)
+- 👨‍💻 [portfolio](https://prinsium.vercel.app)
 
 - 📫 How to reach me **helloprinsium@gmail.com**
 
